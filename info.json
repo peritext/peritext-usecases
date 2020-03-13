@@ -1,6 +1,15 @@
 {
     "cases": [
         {
+            "title": "Visualizations sandbox",
+            "language": "english",
+            "id": "visualizations-sandbox",
+            "description": {
+                "en": "some examples of ovide's data visualization related features",
+                "fr": "quelques exemples des capacités d'ovide en termes de visualisation de données"
+            }
+        },
+        {
             "title": "20 000 lieux sous les mers",
             "language": "french",
             "author": "Jules Vernes",
