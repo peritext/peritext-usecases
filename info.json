@@ -1,0 +1,14 @@
+{
+    "cases": [
+        {
+            "title": "20 000 lieux sous les mers",
+            "language": "french",
+            "author": "Jules Vernes",
+            "id": "verne-20000_lieux_sous_les_mers",
+            "description": {
+                "en": "a classical adventure story revisited to provide a preview of ovide's glossary-related features",
+                "fr": "un récit classique revisité pour donner un aperçu des capacités d'ovide en termes d'exploitation de glossaire"
+            }
+        }
+    ]
+}
