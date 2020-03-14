@@ -1,22 +1,40 @@
 {
     "cases": [
         {
-            "title": "Visualizations sandbox",
-            "language": "english",
-            "id": "visualizations-sandbox",
-            "description": {
-                "en": "some examples of ovide's data visualization related features",
-                "fr": "quelques exemples des capacités d'ovide en termes de visualisation de données"
+            "title": {
+                fr: "Vingt mille lieux sous les mers",
+                en: "Twenty leagues under the sea"
             }
-        },
-        {
-            "title": "20 000 lieux sous les mers",
             "language": "french",
             "author": "Jules Vernes",
             "id": "verne-20000_lieux_sous_les_mers",
             "description": {
-                "en": "a classical adventure story revisited to provide a preview of ovide's glossary-related features",
-                "fr": "un récit classique revisité pour donner un aperçu des capacités d'ovide en termes d'exploitation de glossaire"
+                "en": "a classical adventure story revisited to provide a preview of Ovide's glossary-related features",
+                "fr": "un récit classique revisité pour donner un aperçu des capacités d'Ovide en termes de valorisation de glossaire"
+            }
+        },
+        {
+            "title": {
+                "en": "United Nations videos",
+                "fr": "Vidéos des Nations Unies"
+            },
+            "language": "english",
+            "id": "united-nations",
+            "description": {
+                "en": "some examples of Ovide's audiovisual annotation possibilities",
+                "fr": "quelques exemples des capacités d'Ovide en termes d'annotation de matériaux audio-visuels"
+            }
+        },
+        {
+            "title": {
+                "en": "Data visualizations examples",
+                "fr": "Exemples de visualisations de données"
+            },
+            "language": "english",
+            "id": "visualizations-sandbox",
+            "description": {
+                "en": "some examples of Ovide's data visualization related features",
+                "fr": "quelques exemples des capacités d'Ovide en termes de visualisation de données"
             }
         }
     ]
