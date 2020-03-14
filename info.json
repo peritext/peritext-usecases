@@ -2,15 +2,28 @@
     "cases": [
         {
             "title": {
-                fr: "Vingt mille lieux sous les mers",
-                en: "Twenty leagues under the sea"
-            }
+                "fr": "Vingt mille lieux sous les mers",
+                "en": "Twenty leagues under the sea"
+            },
             "language": "french",
             "author": "Jules Vernes",
             "id": "verne-20000_lieux_sous_les_mers",
             "description": {
                 "en": "a classical adventure story revisited to provide a preview of Ovide's glossary-related features",
                 "fr": "un récit classique revisité pour donner un aperçu des capacités d'Ovide en termes de valorisation de glossaire"
+            }
+        },
+        {
+            "title": {
+                "en": "Le design fantômatique des communautés savantes",
+                "fr": "Le design fantômatique des communautés savantes"
+            },
+            "language": "french",
+            "id": "demourat-design-fantomatique",
+            "author": "Robin de Mourat",
+            "description": {
+                "en": "an example of scientific journal article from which different web and print editions are proposed",
+                "fr": "un exemple d'article de revue scientifique depuis lequel différentes éditions web et imprimées sont proposées"
             }
         },
         {
