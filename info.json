@@ -15,19 +15,6 @@
         },
         {
             "title": {
-                "en": "Le design fantômatique des communautés savantes",
-                "fr": "Le design fantômatique des communautés savantes"
-            },
-            "language": "french",
-            "id": "demourat-design-fantomatique",
-            "author": "Robin de Mourat",
-            "description": {
-                "en": "an example of scientific journal article from which different web and print editions are proposed",
-                "fr": "un exemple d'article de revue scientifique depuis lequel différentes éditions web et imprimées sont proposées"
-            }
-        },
-        {
-            "title": {
                 "en": "United Nations videos",
                 "fr": "Vidéos des Nations Unies"
             },
@@ -49,6 +36,20 @@
                 "en": "some examples of Ovide's data visualization related features",
                 "fr": "quelques exemples des capacités d'Ovide en termes de visualisation de données"
             }
-        }
+        },
+        
+        {
+            "title": {
+                "en": "Le design fantômatique des communautés savantes",
+                "fr": "Le design fantômatique des communautés savantes"
+            },
+            "language": "french",
+            "id": "demourat-design-fantomatique",
+            "author": "Robin de Mourat",
+            "description": {
+                "en": "an example of scientific journal article from which different web and print editions are proposed",
+                "fr": "un exemple d'article de revue scientifique depuis lequel différentes éditions web et imprimées sont proposées"
+            }
+        },
     ]
 }
